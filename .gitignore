@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# IGNORE THE VARIABLES API KEYS
+src/main/resources/application.properties
